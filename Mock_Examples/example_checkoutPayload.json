@@ -1,0 +1,14 @@
+{
+  "userId": "number",
+  "sellerId": "number",
+  "totalPrice": "number",
+  "deliveryAddress": "string",
+  "deliveryNumber": "string",
+  "status": "string",
+  "products": [
+    {
+      "id": "number",
+      "quantity": "number"
+    }
+  ]
+}

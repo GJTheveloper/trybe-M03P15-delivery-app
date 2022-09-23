@@ -1,0 +1,14 @@
+[
+  {
+    "id": "number",
+    "name": "string",
+    "price": "number",
+    "urlImage": "string"
+  },
+  {
+    "id": "number",
+    "name": "string",
+    "price": "number",
+    "urlImage": "string"
+  }
+]

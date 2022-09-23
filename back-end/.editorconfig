@@ -1,0 +1,17 @@
+root = true
+
+[*]
+indent_style = space
+# Identar com espaços
+indent_size = 2
+# quantidade de espaços usados para identar
+end_of_line = lf
+# quebra de linha usada em sistemas Unix
+charset = utf-8
+# codificação de caracteres a ser usado
+trim_trailing_whitespace = true
+# apagar espaços inutilizados no fim de cada linha
+insert_final_newline = true
+# inserir linha vazia no final do arquivo
+quote_type = single
+# aspas simples

@@ -1,0 +1,9 @@
+{
+  "token": "string",
+  "json": {
+    "id": "number",
+    "name": "string",
+    "email": "string",
+    "role": "string"
+  }
+}
